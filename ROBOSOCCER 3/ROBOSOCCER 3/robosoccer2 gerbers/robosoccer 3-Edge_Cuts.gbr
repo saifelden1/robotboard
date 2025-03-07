@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.1*%
+%TF.CreationDate,2025-03-07T14:58:40+02:00*%
+%TF.ProjectId,robosoccer 3,726f626f-736f-4636-9365-7220332e6b69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.1) date 2025-03-07 14:58:40*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X71680000Y-80350000D02*
+X136610000Y-80350000D01*
+X136610000Y-168980000D01*
+X71680000Y-168980000D01*
+X71680000Y-80350000D01*
+M02*
